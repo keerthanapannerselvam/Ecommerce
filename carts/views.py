@@ -260,5 +260,4 @@ def complete_remove_wishlist(request,product_id):
 
 
 #this is demo
-
-#This is demo for testing...
+for pull operation
